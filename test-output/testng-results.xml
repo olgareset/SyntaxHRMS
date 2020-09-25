@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="86830" started-at="2020-09-11T23:30:59 EDT" finished-at="2020-09-11T23:32:26 EDT">
+    <groups>
+      <group name="smoke">
+        <method signature="AddEmployeeTest.addEmployee(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.hrms.testcases.AddEmployeeTest@27a5f880]" name="addEmployee" class="com.hrms.testcases.AddEmployeeTest"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="Default test" duration-ms="86830" started-at="2020-09-11T23:30:59 EDT" finished-at="2020-09-11T23:32:26 EDT">
+      <class name="com.hrms.testcases.AddEmployeeTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.hrms.testcases.AddEmployeeTest@27a5f880]" name="setUp" is-config="true" duration-ms="7481" started-at="2020-09-11T23:30:59 EDT" finished-at="2020-09-11T23:31:07 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addEmployee(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.hrms.testcases.AddEmployeeTest@27a5f880]" name="addEmployee" duration-ms="5657" started-at="2020-09-11T23:31:07 EDT" data-provider="getData" finished-at="2020-09-11T23:31:12 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Alice]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Silve]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Alstydfisil4x4]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[!K!ters1Duzf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployee -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hrms.testcases.AddEmployeeTest@27a5f880]" name="tearDown" is-config="true" duration-ms="658" started-at="2020-09-11T23:31:12 EDT" finished-at="2020-09-11T23:31:13 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.hrms.testcases.AddEmployeeTest@27a5f880]" name="setUp" is-config="true" duration-ms="8172" started-at="2020-09-11T23:31:13 EDT" finished-at="2020-09-11T23:31:21 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addEmployee(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.hrms.testcases.AddEmployeeTest@27a5f880]" name="addEmployee" duration-ms="10658" started-at="2020-09-11T23:31:21 EDT" data-provider="getData" finished-at="2020-09-11T23:31:32 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Asal]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Siasaf]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Alisiasal4x5]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[!K!ters1Duz]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployee -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hrms.testcases.AddEmployeeTest@27a5f880]" name="tearDown" is-config="true" duration-ms="637" started-at="2020-09-11T23:31:32 EDT" finished-at="2020-09-11T23:31:32 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.hrms.testcases.AddEmployeeTest@27a5f880]" name="setUp" is-config="true" duration-ms="6641" started-at="2020-09-11T23:31:32 EDT" finished-at="2020-09-11T23:31:39 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addEmployee(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.hrms.testcases.AddEmployeeTest@27a5f880]" name="addEmployee" duration-ms="5448" started-at="2020-09-11T23:31:39 EDT" data-provider="getData" finished-at="2020-09-11T23:31:44 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Alan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sil]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Alishtyifl4x6]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[!K!ters1Duz]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployee -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hrms.testcases.AddEmployeeTest@27a5f880]" name="tearDown" is-config="true" duration-ms="654" started-at="2020-09-11T23:31:44 EDT" finished-at="2020-09-11T23:31:45 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.hrms.testcases.AddEmployeeTest@27a5f880]" name="setUp" is-config="true" duration-ms="8525" started-at="2020-09-11T23:31:45 EDT" finished-at="2020-09-11T23:31:54 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addEmployee(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.hrms.testcases.AddEmployeeTest@27a5f880]" name="addEmployee" duration-ms="15687" started-at="2020-09-11T23:31:54 EDT" data-provider="getData" finished-at="2020-09-11T23:32:09 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ali]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Si3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Atyufrulisil4x7]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[!K!ters1Duz]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployee -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hrms.testcases.AddEmployeeTest@27a5f880]" name="tearDown" is-config="true" duration-ms="653" started-at="2020-09-11T23:32:09 EDT" finished-at="2020-09-11T23:32:10 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.hrms.testcases.AddEmployeeTest@27a5f880]" name="setUp" is-config="true" duration-ms="9229" started-at="2020-09-11T23:32:10 EDT" finished-at="2020-09-11T23:32:19 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addEmployee(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.hrms.testcases.AddEmployeeTest@27a5f880]" name="addEmployee" duration-ms="6018" started-at="2020-09-11T23:32:19 EDT" data-provider="getData" finished-at="2020-09-11T23:32:25 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Alfi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sil]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Alisil4fx8]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[!K!tefrs1Duz]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployee -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hrms.testcases.AddEmployeeTest@27a5f880]" name="tearDown" is-config="true" duration-ms="651" started-at="2020-09-11T23:32:25 EDT" finished-at="2020-09-11T23:32:26 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hrms.testcases.AddEmployeeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
